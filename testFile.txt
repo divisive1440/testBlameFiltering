@@ -2,7 +2,8 @@ adsfadfasdf
 asdfa
 dsf
 adf
-agasdgfasdf
+agasdgfasdf // modified line in existing commit
 asdgfasdf
 asdgasdgfasdf
 asdgasdf
+newly added line in filtered commit
